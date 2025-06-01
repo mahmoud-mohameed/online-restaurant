@@ -1,0 +1,323 @@
+{
+  "manue": [
+    {
+      "id": "1",
+      "type": "pizza",
+      "title": "Salami pizza",
+      "price": 220,
+      "image": "/image/pizza/pizaa4.avif",
+      "components": "Pizza dough, mozzarella cheese, olives, tomatoes, peppers and salami slices"
+    },
+    {
+      "id": "2",
+      "type": "pizza",
+      "title": "Shrimp pizza",
+      "price": 250,
+      "image": "/image/pizza/pizaa3.avif",
+      "components": "Pizza dough, mozzarella cheese, olives, tomatoes, peppers and Shrimp"
+    },
+    {
+      "id": "3",
+      "type": "pizza",
+      "title": "cheese pizza",
+      "price": 170,
+      "image": "/image/pizza/pizza6.avif",
+      "components": "Pizza dough, mozzarella cheese, olives, tomatoes, peppers and many of cheese"
+    },
+    {
+      "id": "4",
+      "type": "pizza",
+      "title": "meat pizza",
+      "price": 200,
+      "image": "/image/pizza/pizza1.avif",
+      "components": "Pizza dough, mozzarella cheese, olives, tomatoes, peppers and meate"
+    },
+    {
+      "id": "5",
+      "type": "pizza",
+      "title": "Chicken pizza",
+      "price": 200,
+      "image": "/image/pizza/pizza7.avif",
+      "components": "Pizza dough, mozzarella cheese, olives, tomatoes, peppers and Chicken"
+    },
+    {
+      "id": "6",
+      "type": "pizza",
+      "title": "Sausage pizza",
+      "price": 200,
+      "image": "/image/pizza/pizza5.avif",
+      "components": "Pizza dough, mozzarella cheese, olives, tomatoes, peppers and Sausage  "
+    },
+    {
+      "id": "7",
+      "type": "pizza",
+      "title": "Seafood pizza ",
+      "price": 300,
+      "image": "/image/pizza/pizza2.avif",
+      "components": "Pizza dough, mozzarella cheese, olives, tomatoes, peppers and Seafood pizza   "
+    },
+    {
+      "id": "8",
+      "type": "burger",
+      "title": "Beef burger",
+      "price": 150,
+      "image": "/image/Burger/popular-burger-meat.png",
+      "components": " mozzarella cheese, olives, tomatoes, peppers,khas and  Beef burger  "
+    },
+    {
+      "id": "9",
+      "type": "burger",
+      "title": "Chicken burger",
+      "price": 130,
+      "image": "/image/Burger/popular-burger-chicken.png",
+      "components": " mozzarella cheese, olives, tomatoes, peppers,khas and  Chicken burger  "
+    },
+    {
+      "id": "10",
+      "type": "burger",
+      "title": "grill burger",
+      "price": 170,
+      "image": "/image/Burger/popular-burger-grill.png",
+      "components": " mozzarella cheese, olives, tomatoes, peppers,khas and  Beef burger  "
+    },
+    {
+      "id": "11",
+      "type": "burger",
+      "title": "classic burger",
+      "price": 135,
+      "image": "/image/Burger/popular-burger-classic.png",
+      "components": " Beef burger  "
+    },
+    {
+      "id": "12",
+      "type": "burger",
+      "title": "double burger",
+      "price": 135,
+      "image": "/image/Burger/popular-burger-big.png",
+      "components": "  mozzarella cheese, olives, tomatoes, peppers,khas and 2 Beef burger "
+    },
+    {
+      "id": "13",
+      "type": "juice",
+      "title": "orange juice",
+      "price": 80,
+      "image": "/image/juice/fjuice3.avif",
+      "components": "Orange, sugar and ice"
+    },
+    {
+      "id": "14",
+      "type": "juice",
+      "title": "Pineapple juice",
+      "price": 100,
+      "image": "/image/juice/juice1.avif",
+      "components": "Pineapple, sugar and ice"
+    },
+    {
+      "id": "15",
+      "type": "juice",
+      "title": "strawberry juice",
+      "price": 100,
+      "image": "/image/juice/juice2.avif",
+      "components": "strawberry, sugar and ice"
+    },
+    {
+      "id": "16",
+      "type": "juice",
+      "title": "Strawberry juice with berries",
+      "price": 120,
+      "image": "/image/juice/juice3.avif",
+      "components": "strawberry,berries, sugar and ice"
+    },
+    {
+      "id": "17",
+      "type": "juice",
+      "title": "Cherry juice",
+      "price": 100,
+      "image": "/image/juice/juice5.avif",
+      "components": "Cherry, sugar and ice"
+    },
+    {
+      "id": "18",
+      "type": "juice",
+      "title": "Pomegranate juice",
+      "price": 100,
+      "image": "/image/juice/juice6.avif",
+      "components": "Pomegranate, sugar and ice"
+    },
+    {
+      "id": "19",
+      "type": "juice",
+      "title": "Kiwi juice",
+      "price": 100,
+      "image": "/image/juice/juice7.avif",
+      "components": "Kiwi, sugar and ice"
+    },
+    {
+      "id": "20",
+      "type": "coffe",
+      "title": "Caramel latte with chocolate",
+      "price": 80,
+      "image": "/image/coffe/caramel-latte-with-chocolade-table_140725-4.avif",
+      "components": "Caramel latte with chocolate"
+    },
+    {
+      "id": "21",
+      "type": "coffe",
+      "title": "Coffee drink with chocolate",
+      "price": 80,
+      "image": "/image/coffe/coffee-beverage-with-chocolate-syrup-inside_140725-3397.avif",
+      "components": "Coffee drink with chocolate"
+    },
+    {
+      "id": "22",
+      "type": "coffe",
+      "title": "espresso coffee",
+      "price": 70,
+      "image": "/image/coffe/coffee-time-accessories-black-table-against-grey-background_185193-3533.jpg",
+      "components": "espresso coffee"
+    },
+    {
+      "id": "23",
+      "type": "coffe",
+      "title": "Coffe latte with coffe",
+      "price": 90,
+      "image": "/image/coffe/front-view-coffee-latte-with-coffee-beans_141793-4603.avif",
+      "components": "latte with coffe"
+    },
+    {
+      "id": "24",
+      "type": "coffe",
+      "title": "hot chocolate",
+      "price": 80,
+      "image": "/image/coffe/hot-chocolate-served-with-cookies_140725-1153.avif",
+      "components": "hot chocolate"
+    },
+    {
+      "id": "25",
+      "type": "coffe",
+      "title": "ice coffe",
+      "price": 90,
+      "image": "/image/coffe/iced-coffee-with-milk-tall-glass_118631-2004.avif",
+      "components": "hot chocolate"
+    },
+    {
+      "id": "26",
+      "type": "coffe",
+      "title": "milk latte with chocolate vanillia",
+      "price": 100,
+      "image": "/image/coffe/milky-latte-with-chocolate-vanilla-biscuit-cookies_114579-3744.avif",
+      "components": "milk latte with chocolate vanillia"
+    },
+    {
+      "id": "27",
+      "type": "coffe",
+      "title": "coffe with vanilla cream",
+      "price": 100,
+      "image": "/image/coffe/vertical-closeup-plastic-cup-cold-coffee-with-vanilla-cream_181624-57827.avif",
+      "components": "milk latte with chocolate vanillia"
+    },
+    {
+      "id": "1",
+      "type": "pizza",
+      "title": "Salami pizza",
+      "price": 220,
+      "image": "/image/pizza/pizaa4.avif",
+      "components": "Pizza dough, mozzarella cheese, olives, tomatoes, peppers and salami slices"
+    },
+    {
+      "id": "2",
+      "type": "pizza",
+      "title": "Shrimp pizza",
+      "price": 250,
+      "image": "/image/pizza/pizaa3.avif",
+      "components": "Pizza dough, mozzarella cheese, olives, tomatoes, peppers and Shrimp"
+    },
+    {
+      "id": "3",
+      "type": "pizza",
+      "title": "cheese pizza",
+      "price": 170,
+      "image": "/image/pizza/pizza6.avif",
+      "components": "Pizza dough, mozzarella cheese, olives, tomatoes, peppers and many of cheese"
+    },
+    {
+      "id": "4",
+      "type": "pizza",
+      "title": "meat pizza",
+      "price": 200,
+      "image": "/image/pizza/pizza1.avif",
+      "components": "Pizza dough, mozzarella cheese, olives, tomatoes, peppers and meate"
+    },
+    {
+      "id": "5",
+      "type": "pizza",
+      "title": "Chicken pizza",
+      "price": 200,
+      "image": "/image/pizza/pizza7.avif",
+      "components": "Pizza dough, mozzarella cheese, olives, tomatoes, peppers and Chicken"
+    },
+    {
+      "id": "6",
+      "type": "pizza",
+      "title": "Sausage pizza",
+      "price": 200,
+      "image": "/image/pizza/pizza5.avif",
+      "components": "Pizza dough, mozzarella cheese, olives, tomatoes, peppers and Sausage  "
+    },
+    {
+      "id": "7",
+      "type": "pizza",
+      "title": "Seafood pizza ",
+      "price": 300,
+      "image": "/image/pizza/pizza2.avif",
+      "components": "Pizza dough, mozzarella cheese, olives, tomatoes, peppers and Seafood pizza   "
+    },
+    {
+      "id": "8",
+      "type": "burger",
+      "title": "Beef burger",
+      "price": 150,
+      "image": "/image/Burger/popular-burger-meat.png",
+      "components": " mozzarella cheese, olives, tomatoes, peppers,khas and  Beef burger  "
+    },
+    {
+      "id": "4d3a",
+      "type": "mahmoud",
+      "title": "mahmoud mohamed",
+      "price": "5000",
+      "components": "jfjijefiheqfhileqfheihieqhih",
+      "image": "https://png.pngtree.com/png-clipart/20240627/original/pngtree-photo-of-a-perfectly-cooked-pizza-png-image_15426579.png"
+    },
+    {
+      "id": "b0ab",
+      "type": "pizza",
+      "title": "mahmoud Pizza",
+      "price": "500",
+      "components": "meat ,chicken ",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYi4LgxhXeEMFnq5TtdQGcqIGL86I6tn4O5w&s"
+    },
+    {
+      "id": "ba55",
+      "type": "Burger",
+      "title": "burger",
+      "price": "240",
+      "components": "burger",
+      "image": "https://media.gettyimages.com/id/1452748723/photo/close-up-of-burger-on-table-indonesia.jpg?s=612x612&w=0&k=20&c=3bgvj-4UjF4I6cBQf2rn_i6FOTiLRBUzl0pwCg7XegU="
+    },
+    {
+      "id": "8594",
+      "type": "burger",
+      "title": "burger",
+      "price": "280",
+      "components": "burger",
+      "image": "https://media.istockphoto.com/id/2148672887/photo/beef-patty-burger-with-vegetables-and-lettuce-on-white-background-file-contains-clipping-path.jpg?s=2048x2048&w=is&k=20&c=I0IuONNkgrR2bWa7VazV04DsbqpgCEaHd26N3i7zjeg="
+    }
+  ],
+  "user": [
+    {
+      "id": "1",
+      "username": "admain",
+      "password": "admain"
+    }
+  ]
+}

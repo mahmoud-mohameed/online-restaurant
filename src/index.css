@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body {
+  @apply bg-bodyColor;
+}
+
+html{
+ scroll-behavior: smooth;
+}
+
+/* Scrollbar كامل */
+::-webkit-scrollbar {
+  width:12px;
+  height: 8px;
+}
+
+/* الخلفية */
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* لون السحب */
+::-webkit-scrollbar-thumb {
+  background: #78350f; /* نفس لون amber-600 تقريبًا */
+  border-radius: 8px;
+}
+
+/* عند الـ hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #3f1a05; /* لون أدكن شوي */
+}
